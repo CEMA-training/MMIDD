@@ -1,5 +1,7 @@
-baseURL = "https://runningstream.github.io/hugograyscale/"
+baseURL = "https://cema-uonbi.github.io/MMIDD/"
 languageCode = "en-us"
+enableRobotsTXT = true
+canonifyURLs = true
 title = "Center for Epidemiological Modelling and Analysis"
 theme = "hugograyscale"
 #googleAnalytics = ""
