@@ -1,0 +1,14 @@
+baseURL: http://example.com/
+languageCode: en-us
+title: Mathematical Modelling of Infectious Disease Dynamics
+theme: hugograyscale
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+params:
+  description: Training on Mathematical Modelling of Infectious Disease Dynamics
+Author:
+  email: fellowships@cema.africa
+  name: Center for Epdemiological Modelling and Analysis
+Social:
+  twitter: cema-Africa
