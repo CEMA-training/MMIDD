@@ -1,0 +1,19 @@
+baseURL = "https://cema-uonbi.github.io/MMIDD/"
+languageCode = "en-us"
+enableRobotsTXT = true
+canonifyURLs = true
+title = "Center for Epidemiological Modelling and Analysis"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "CEMA"
+
+[Author]
+    name = "Center for Epidemiological Modelling and Analysis"
+    email = "fellowships@cema.africa"
+
+[Social]
+    twitter = "stream_running"
