@@ -120,7 +120,7 @@ header {
   text-align: center;
   color: white;
   background: url("../img/section0-bg.jpg") no-repeat bottom center scroll;
-  background-color:#7D7D7D;
+  background-color:#000000;
   background-size: cover;
 }
 
@@ -184,6 +184,7 @@ header p {
   background-color:black;
   background-size: cover;
 }
+
 
 #map {
   width: 100%;
