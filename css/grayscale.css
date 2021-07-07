@@ -114,7 +114,7 @@ a:focus, a:hover {
 header {
   display: table;
   width: 100%;
-  height: 50%;
+  height: auto;
   padding: 200px 0;
   text-align: center;
   color: white;
