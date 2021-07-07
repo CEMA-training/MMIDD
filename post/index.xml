@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mathematical Modelling of Infectious Disease Dynamics</title>
+    <title>Posts on CEMA-MMID</title>
     <link>http://example.com/post/</link>
-    <description>Recent content in Posts on Mathematical Modelling of Infectious Disease Dynamics</description>
+    <description>Recent content in Posts on CEMA-MMID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>fellowships@cema.africa (Center for Epdemiological Modelling and Analysis)</managingEditor>
-    <webMaster>fellowships@cema.africa (Center for Epdemiological Modelling and Analysis)</webMaster>
+    <managingEditor>fellowships@cema.africa (CEMA)</managingEditor>
+    <webMaster>fellowships@cema.africa (CEMA)</webMaster>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello R Markdown</title>
       <link>http://example.com/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <author>fellowships@cema.africa (Center for Epdemiological Modelling and Analysis)</author>
+      <author>fellowships@cema.africa (CEMA)</author>
       <guid>http://example.com/post/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
